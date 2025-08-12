@@ -1,0 +1,102 @@
+﻿epc_core.c(19,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(19,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(102,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(69,16): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(102,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(70,13): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(102,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(72,22): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(111,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(111,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(126,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(126,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(170,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(69,16): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(170,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(70,13): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(170,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(72,22): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(175,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(69,16): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(175,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(70,13): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(175,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(72,22): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(198,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(198,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(213,5): warning : 'strncpy' is deprecated: This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(334,1): message : 'strncpy' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(1935,17): message : expanded from macro '__DEFINE_CPP_OVERLOAD_STANDARD_NFUNC_0_2_EX'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime.h(368,55): message : expanded from macro '_CRT_INSECURE_DEPRECATE'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime.h(358,47): message : expanded from macro '_CRT_DEPRECATE_TEXT'
+epc_core.c(235,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(235,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(249,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(249,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(266,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(69,16): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(266,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(70,13): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(266,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(72,22): message : expanded from macro 'epc_list_for_each_entry_safe'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(432,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(432,5): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(440,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(440,9): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(451,13): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(65,16): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(451,13): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(66,39): message : expanded from macro 'epc_list_for_each_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+epc_core.c(466,21): warning : format specifies type 'unsigned long' but the argument has type 'uint64_t' (aka 'unsigned long long') [-Wformat]
+epc_core.c(466,44): warning : format specifies type 'unsigned long' but the argument has type 'uint64_t' (aka 'unsigned long long') [-Wformat]
+epc_core.c(466,67): warning : format specifies type 'unsigned long' but the argument has type 'uint64_t' (aka 'unsigned long long') [-Wformat]
+epc_core.c(522,11): warning : cast to smaller integer type 'unsigned long' from 'epc_list_head *' (aka 'struct epc_list_head *') [-Wpointer-to-int-cast]
+.\epc_core.h(62,5): message : expanded from macro 'epc_list_first_entry'
+.\epc_core.h(59,29): message : expanded from macro 'epc_list_entry'
+  EventProcessCommunication.Service.vcxproj -> C:\Users\gpsd\source\vc++\EventProcessCommunication\bin\Windows\x64\Debug\EventProcessCommunication.Service.exe
