@@ -172,15 +172,19 @@ int main() {
 #### Linux
 
 ```sh
-g++ -std=c++11 -pthread -o server server.cpp
-g++ -std=c++11 -pthread -o client client.cpp
-./server  # In one terminal
-./client  # In another
+git clone https://github.com/NeuralLead/EventProcessCommunication
+cd EventProcessCommunication
+make
+
+sudo ./bin/Linux/x86_64/Release/epc_module
+
+./bin/Linux/x86_64/Release/server  # In one terminal
+./bin/Linux/x86_64/Release/client  # In another
 ```
 
 #### Windows
 
-- Build with any C++ compiler and link to pthreads if building on MinGW; on MSVC use Win32 default.
+- Build with any C++ compiler and link to pthreads if building on MinGW; on MSVC use Win32 default and specify pthread-win32 library directory in visual studio project settings.
 
 ---
 
